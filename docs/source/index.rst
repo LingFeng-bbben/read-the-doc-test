@@ -11,7 +11,7 @@
 枯燥乏味，什么亮点都没有，无聊的要死。你的视频很下头，但何同学的视频就很下肠，
 奉劝你们这些人好自为之，不要因为嫉妒蒙蔽了双眼，毁了未来的乔布斯！
 
-`BiliBili <https://space.bilibili.com/8317837>`
+`BiliBili <https://space.bilibili.com/8317837>`_
 
 没病就看点 :doc:`dydy`
 
