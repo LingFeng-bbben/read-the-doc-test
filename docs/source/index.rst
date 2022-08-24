@@ -13,7 +13,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
-.. figure: /docs/media/1.jpg
+.. image: /media/1.jpg
    :alt: 野火logo
    :align: center
 
