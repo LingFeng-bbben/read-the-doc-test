@@ -1,20 +1,29 @@
-Welcome to Lumache's documentation!
+嗨！傻逼们！
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+想畅游 *互联网* 吗？ 草死你们的吗！ 尽管试试，但是
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+怎么又刷到你了，不蹭不会做视频是吧？金无足赤人无完人，谁又是十全十美的？
+人就是有确点才显得可贵，没缺点那就是神了，何同学有错就改，敢于面对自己的错误，
+多少up弄错了都是嘴硬不承认的？你呢，你做代码没弄错过吗，你敢说你一直都是对的吗？
+真不知道现在风气怎么了，b战怎么不把你们这些人封了，靠你们阴阳怪气科技能进步吗？
+而且从做视频的角度来说，何同学的视频趣味性都很充足，能让人看的津津有味，你的视频呢？
+枯燥乏味，什么亮点都没有，无聊的要死。你的视频很下头，但何同学的视频就很下肠，
+奉劝你们这些人好自为之，不要因为嫉妒蒙蔽了双眼，毁了未来的乔布斯！
+
+`BiliBili <https://space.bilibili.com/8317837>`
+
+没病就看点 :doc:`dydy`
+
+
+how to :ref:`my-reference-label`.the project.
 
 .. note::
 
-   This project is under active development.
+   不要的妈换不回不锈钢盆!
 
 .. image:: media/1.jpg
-   :alt: 野火logo
+   :alt: 色色Grace
    :align: center
 
 Contents
@@ -22,5 +31,4 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   dydy
